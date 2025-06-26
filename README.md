@@ -1,8 +1,8 @@
-# Welcome to your Project
+# Welcome to Personal Porfolio
 
 ## Project Info
 
-**URL**: [https://lovable.dev/projects/1aedb9ad-3fe6-43e0-bb14-80a439cdc282](https://lovable.dev/projects/1aedb9ad-3fe6-43e0-bb14-80a439cdc282)
+**URL**: [[https://lovable.dev/projects/1aedb9ad-3fe6-43e0-bb14-80a439cdc282](https://github.com/nethmith/nethmi-herath.git)]
 
 ## How Can I Edit This Code?
 
