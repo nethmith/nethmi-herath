@@ -25,24 +25,36 @@ const About = () => {
             </p>
           </div>
 
-          <div>
-            <h3 className="text-2xl font-semibold text-teal-600 dark:text-teal-400 mb-6">Education</h3>
-            <div className="bg-white dark:bg-slate-900 rounded-lg p-6 border border-slate-200 dark:border-slate-700 shadow-lg">
-              <h4 className="text-xl font-semibold mb-2 text-slate-900 dark:text-white">BSc (Hons) in Information Technology</h4>
-              <p className="text-teal-600 dark:text-teal-400 mb-2">Software Engineering Specialization</p>
-              <p className="text-slate-500 dark:text-slate-400 mb-4">Sri Lanka Institute of Information Technology (SLIIT)</p>
+          <div className="space-y-8">
+            <div>
+              <h3 className="text-2xl font-semibold text-teal-600 dark:text-teal-400 mb-6">Education</h3>
+              <div className="bg-white dark:bg-slate-900 rounded-lg p-6 border border-slate-200 dark:border-slate-700 shadow-lg">
+                <h4 className="text-xl font-semibold mb-2 text-slate-900 dark:text-white">BSc (Hons) in Information Technology</h4>
+                <p className="text-teal-600 dark:text-teal-400 mb-2">Software Engineering Specialization</p>
+                <p className="text-slate-500 dark:text-slate-400 mb-4">Sri Lanka Institute of Information Technology (SLIIT)</p>
 
-              <h5 className="font-semibold mb-3 text-slate-800 dark:text-slate-200">Key Modules:</h5>
-              <ul className="space-y-2 text-slate-600 dark:text-slate-300">
-                <li>• Database System and Algorithm</li>
-                <li>• Object-Oriented Programming</li>
-                <li>• Web Application Development</li>
-                <li>• Mobile Application Development</li>
-                <li>• Software Engineering Principles</li>
-                <li>• Database Management Systems</li>
-                <li>• User Interface Design</li>
-                <li>• Agile Software Development</li>
-              </ul>
+                <h5 className="font-semibold mb-3 text-slate-800 dark:text-slate-200">Key Modules:</h5>
+                <ul className="space-y-2 text-slate-600 dark:text-slate-300">
+                  <li>• Database System and Algorithm</li>
+                  <li>• Object-Oriented Programming</li>
+                  <li>• Web Application Development</li>
+                  <li>• Mobile Application Development</li>
+                  <li>• Software Engineering Principles</li>
+                  <li>• Database Management Systems</li>
+                  <li>• User Interface Design</li>
+                  <li>• Agile Software Development</li>
+                </ul>
+              </div>
+            </div>
+
+            <div>
+              <h3 className="text-2xl font-semibold text-teal-600 dark:text-teal-400 mb-6">Experience</h3>
+              <div className="bg-white dark:bg-slate-900 rounded-lg p-6 border border-slate-200 dark:border-slate-700 shadow-lg">
+                <h4 className="text-xl font-semibold mb-2 text-slate-900 dark:text-white">Software Engineer Intern</h4>
+                <p className="text-teal-600 dark:text-teal-400 mb-2">OLAK Technologies</p>
+                <p className="text-slate-500 dark:text-slate-400 mb-4">2024 - Present</p>
+                <p className="text-slate-600 dark:text-slate-300">Frontend Developer, User Experience</p>
+              </div>
             </div>
           </div>
         </div>
